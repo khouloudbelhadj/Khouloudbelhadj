@@ -52,6 +52,10 @@ I'm a second-year engineering student at **ESPRIT**, specializing in **TWIN** (W
 ## 📊 GitHub Stats
 
 ![Khouloud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khouloudbelhadj&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudbelhadj&layout=compact&theme=radical)
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=khouloudbelhadj&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khouloudbelhadj&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 
