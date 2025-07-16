@@ -67,7 +67,7 @@ I'm a second-year engineering student at **ESPRIT**, specializing in **TWIN** (W
 > "The best way to predict the future is to invent it." — Alan Kay
 
 ## 💬 Ask Me About
-- **Spring Boot**, **Angular**, **React**, **UI/UX Design**
+- **Spring Boot**, **Angular**, **React**, **Node.js** , **UI/UX Design** 
 
 ## ⚡ Fun Fact
 I love designing clean, functional, and visually appealing interfaces and I’m always excited to experiment with new design trends and technologies. I also enjoy working on challenging coding problems during hackathons!
