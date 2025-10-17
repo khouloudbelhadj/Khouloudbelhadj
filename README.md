@@ -2,7 +2,7 @@
 Welcome to my GitHub Profile! 🌟
 
 ## About Me
-I'm a second-year engineering student at **ESPRIT**, specializing in **TWIN** (Web Technologies and the Internet). I’m passionate about **web development**, **graphic design** and building innovative solutions. I enjoy working on both **backend** and **frontend** technologies and I’m always eager to learn new tools and frameworks to enhance my skills.
+I'm a third-year engineering student at **ESPRIT**, specializing in **TWIN** (Web Technologies and the Internet), currently in my final year of the engineering cycle. I’m passionate about **web development**, **graphic design**, **AI** and building innovative and modern solutions. I enjoy working on both **backend** and **frontend** technologies and I’m always eager to learn new tools and frameworks to enhance my skills.
 
 ## Contact Me
 - **GitHub**: [https://github.com/khouloudbelhadj](https://github.com/khouloudbelhadj)
@@ -28,15 +28,21 @@ I'm a second-year engineering student at **ESPRIT**, specializing in **TWIN** (W
 ![Angular](https://img.shields.io/badge/Angular-%23E23237?style=flat&logo=angular&logoColor=white) **Angular** | 
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white) **React** | 
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000?style=flat&logo=symfony&logoColor=white) **Symfony** | 
-![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=flat&logo=express&logoColor=white) **Express.js** | 
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js** | 
+![Laravel](https://img.icons8.com/ios-filled/50/FF2D20/laravel.png) **Laravel** |
 ![SCSS](https://img.icons8.com/color/48/000000/sass.png) **SCSS** | 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white) **TailwindCSS**
 
+### Databases :
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) **MySQL** | 
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) **PostgreSQL** | 
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
 
 ### Containerization & DevOps:
 ![Docker](https://img.shields.io/badge/Docker-%2333A8FF?style=flat&logo=docker&logoColor=white) **Docker** | 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=flat&logo=jenkins&logoColor=white) **Jenkins** | 
-![GitLab](https://img.shields.io/badge/GitLab-%23181717?style=flat&logo=gitlab&logoColor=white) **GitLab CI/CD**
+![GitLab](https://img.shields.io/badge/GitLab_CI/CD-%23181717?style=flat&logo=gitlab&logoColor=white) **Gitlab CI/CD** |
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF?style=flat&logo=githubactions&logoColor=white) **GitHub Actions**
 
 ### Monitoring & Quality:
 ![SonarQube](https://img.shields.io/badge/SonarQube-%23F7D238?style=flat&logo=sonarqube&logoColor=white) **SonarQube** | 
@@ -70,4 +76,4 @@ I'm a second-year engineering student at **ESPRIT**, specializing in **TWIN** (W
 - **Spring Boot**, **Angular**, **React**, **Node.js** , **UI/UX Design** 
 
 ## ⚡ Fun Fact
-I love designing clean, functional, and visually appealing interfaces and I’m always excited to experiment with new design trends and technologies. I also enjoy working on challenging coding problems during hackathons!
+I love designing clean, functional and visually appealing interfaces and I’m always excited to experiment with new design trends and technologies. I also enjoy working on challenging coding problems during hackathons!
