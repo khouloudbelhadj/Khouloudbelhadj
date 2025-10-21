@@ -8,7 +8,7 @@
 
 <p align="center">
   <em>
-    💡 Turning ideas into <strong>clean, modern, and functional interfaces</strong>!  
+    💡 Turning ideas into <strong>clean, modern and functional interfaces</strong>!  
     💻 Passionate about <strong>Web Development, AI and UI/UX Design</strong>
   </em>
 </p>
@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 I'm a third-year engineering student at **ESPRIT**, specializing in **TWIN** (Web Technologies and the Internet), currently in my **final year of the engineering cycle**.  
-I’m passionate about **web development**, **graphic design**, **AI**, and building **innovative and modern solutions**.  
+I’m passionate about **web development**, **graphic design**, **AI** and building **innovative and modern solutions**.  
 I enjoy working on both **backend** and **frontend technologies** and I’m always eager to learn **new tools and frameworks** to enhance my skills.
 
 
@@ -61,6 +61,7 @@ I enjoy working on both **backend** and **frontend technologies** and I’m alwa
 ![Symfony](https://img.shields.io/badge/Symfony-%23000000?style=flat&logo=symfony&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23CD6799?style=flat&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -71,6 +72,7 @@ I enjoy working on both **backend** and **frontend technologies** and I’m alwa
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 
@@ -131,9 +133,9 @@ I enjoy working on both **backend** and **frontend technologies** and I’m alwa
 ---
 
 ## 💬 Ask Me About
-**Spring Boot**, **Angular**, **React**, **Node.js**, **UI/UX Design**
+**Spring Boot**, **Node.js**, **Angular**, **React**, **UI/UX Design**
 
 ---
 
 ## ⚡ Fun Fact
-I love designing **clean, functional, visually appealing interfaces**, experimenting with **new design trends**, and solving **challenging coding problems** during hackathons!
+I love designing **clean, functional, visually appealing interfaces**, experimenting with **new design trends** and solving **challenging coding problems** during hackathons!
